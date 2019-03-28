@@ -19,6 +19,6 @@ HTML/CS/JS course (2019 Spring @hnu.kr)
 
  * [GitHub](https://github.com/)
  
- * [잔디](https://jandi.com/)
+ * [잔디](https://html2019.jandi.com)
 
  * [HiClass](https://hiclass.hannam.ac.kr/courses/4796)
